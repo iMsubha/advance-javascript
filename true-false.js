@@ -8,7 +8,7 @@ const fname = "Subha";
 //console.log(typeof age);
 
  
-console.log((age)? "true": "false");
+console.log((-4)? "true": "false");
 console.log((fname.length > 0)? "true": "false");
 console.log((NaN)? "NaN: true": "NaN: false");
 console.log((null)? "null: true": "null: false");
